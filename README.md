@@ -1,8 +1,7 @@
 # 👋 Hey there, I’m Atish Joottun
 
 🎓 **Computer Science Student** | 💻 **Full Stack Developer** | 🔐 **Cybersecurity Enthusiast**  
-📍 Mauritius | 🌐 [Website](#) | 💼 [LinkedIn](#) | 🧑‍💻 [GitHub](https://github.com/JoottunAtish)  
-📧 ajoottun24@gmail.com | 📱 (+230) 5778 9428
+📍 Mauritius | 🌐 [Website](#) | 💼 [LinkedIn](#) | 🧑‍💻 [GitHub](https://github.com/JoottunAtish) | 📧 ajoottun24@gmail.com | 📱 (+230) 5778 9428
 
 ---
 
