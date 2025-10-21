@@ -76,7 +76,7 @@ Implemented logging for all updates and managed team task completion.
 
 ## 📫 Let’s Connect
 
-💼 [LinkedIn]("https://www.linkedin.com/in/atish-joottun-31a9aa321/") • 🌐 [Portfolio Website]("https://joottunAtish.github.io") • 📧 ajoottun24@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/atish-joottun-31a9aa321/) • 🌐 [Portfolio Website](https://joottunAtish.github.io) • 📧 ajoottun24@gmail.com
 
 ---
 
